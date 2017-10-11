@@ -1,5 +1,15 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Code"
+    url: /code/
+  - title: "Resume"
+    url: /resume/
+  - title: "Miscellany"
+    url: /misc/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
