@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 ---
 
-# What I Believe
+## What I Believe
 
 First and foremost, while any given class has its particular body of content to be covered,
 teaching and learning are fundamentally **relational activities**. There are three primary categories of
@@ -14,13 +14,13 @@ relationships in a classroom:
 - The relationship between students and each other.
 - The relationship between students and the objects (e.g., computers) and activities they engage with during their learning process.
 
-# How I Teach
+## How I Teach
 
 My students are people who are learning to code. Learning to code is,
 in my view, an endeavor that is most similar to some combination of **learning a foreign language** and
 **learning to play an instrument**. It shares both cognitive and socio-emotional features of these other long-term processes, and programming students are most successful when they establish the kind of **habits** that also lead to success for musicians and (human) language learners.
 
-# What Students Say
+## What Students Say
 
 I am proud of my success as a teacher and the ways I have improved and grown
 over time in my career. Here are some of my favorite statements from students,
