@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Colin Schatz, Ph.D."
+title                    : "Colin Schatz"
 title_separator          : "-"
-name                     : "Colin Schatz"
+name                     : "Colin Schatz, Ph.D."
 description              : "computer science educator, curriculum designer, dabbler, parent, Oaklander"
 url                      : "http://colinschatz.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
