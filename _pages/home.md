@@ -6,7 +6,7 @@ I am a Bay Area computer science educator, curriculum developer, programmer, gen
 
 I am currently a full-time instructor of Computer Science at [Las Positas College](http://www.laspositascollege.edu/), where I have worked for 9 years, as well as the director of the college's [Honors Transfer Program](http://www.laspositascollege.edu/honors/).
 
-Before that, I spent various parts of my life in an eclectic array of other professional and educational experiences -- including at Stanford University, the University of Washington, [SmartBrief](http://smartbrief.com/), and the Lawrence Hall of Science(https://www.lawrencehallofscience.org/). I also worked for three years as a high school Chemistry, Physics and Computer Science teacher, and coached a student robotics team near Washington, D.C.
+Before that, I spent various parts of my life in an eclectic array of other professional and educational experiences -- including at Stanford University, the University of Washington, [SmartBrief](http://smartbrief.com/), and the [Lawrence Hall of Science](https://www.lawrencehallofscience.org/). I also worked for three years as a high school Chemistry, Physics and Computer Science teacher, and coached a student robotics team near Washington, D.C.
 
 
 
