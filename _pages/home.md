@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: Welcome
+header:
+  image: /assets/images/forest.jpg
 ---
 I am a Bay Area computer science educator, curriculum developer, programmer, general technology dabbler, and father of two daughters. I hella :hearts: Oakland, where I have lived for 7 years. I enjoy singing, board games, logic puzzles, cats, and large evergreen trees.
 
