@@ -249,3 +249,5 @@ defaults:
       comments: # true
       share: false
       related: false
+      header:
+        image: /assets/images/forest.jpg
