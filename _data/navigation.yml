@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Teaching"
     url: /teaching/
-  - title: "Info"
-    url: /info/
+  - title: "LPC"
+    url: /lpc/
   - title: "Miscellany"
     url: /misc/
   # - title: "Quick-Start Guide"
