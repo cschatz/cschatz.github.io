@@ -3,7 +3,7 @@ layout: single
 permalink: /teaching/
 title: Teaching
 ---
-####(This page is for information about my teaching in general. If you are an LPC student and looking for concrete information related to a class you are taking or the Honors program, you want the [LPC page](/lpc/).)
+###### (This page is for information about my teaching in general. If you are an LPC student and looking for concrete information related to a class you are taking or the Honors program, you want the [LPC page](/lpc/).)
 
 ## What I Believe
 
