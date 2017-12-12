@@ -3,7 +3,7 @@ layout: single
 permalink: /teaching/
 title: Teaching
 ---
-###### (This page is for information about my teaching in general. If you are an LPC student and looking for concrete information related to a class you are taking or the Honors program, you want the [LPC page](/lpc/).)
+> This page is for information about my teaching in general. If you are an LPC student and looking for concrete information related to a class you are taking or the Honors program, you want the [LPC page](/lpc/).)
 
 ## What I Believe
 
@@ -21,17 +21,43 @@ My students are people who are learning to code. Learning to code is,
 in my view, an endeavor that is most similar to some combination of **learning a foreign language** and
 **learning to play an instrument**. It shares both cognitive and socio-emotional features of these other long-term processes, and programming students are most successful when they establish the kind of **habits** that also lead to success for musicians and (human) language learners.
 
+What are those habits? In my view and in my experience, the most important ones are:
+
+- Regularly get enough sleep. Seriously.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best debugger ever made is a good night&#39;s sleep.</p>&mdash; Sasha Laundy (@SashaLaundy) <a href="https://twitter.com/SashaLaundy/status/936661004137635840?ref_src=twsrc%5Etfw">December 1, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+- Practice early, practice often.
+
+- Build skills by *doing* not just *watching*.
+
+
+
+
+
 ## What Students Say
 
 I am proud of my success as a teacher and the ways I have improved and grown
 over time in my career. Here are some of my favorite statements from students,
 almost all from anonymous end-of-term evaluations.
 
-* _You are the best CS professor I have ever had._
-* _You are hands down the best teacher I have had at Las Positas College._
-* _The instructor for this course was probably the best I ever had, I will miss him._
-* _I just want you to know that you are a perfect teacher._
-* _Thank you for listening, answering, and being respectful. I don't think I can overstate how much I value feeling respected in a classroom._
+- _You are the best CS professor I have ever had._
+- _You are hands down the best teacher I have had at Las Positas College._
+- _The instructor for this course was probably the best I ever had, I will miss him._
+- _I just want you to know that you are a perfect teacher._
+- _Thank you for listening, answering, and being respectful. I don't think I can overstate how much I value feeling respected in a classroom._
+
+_ *But students say critical things, too, right?* _
+
+<!--
+
+- I can sometimes get impatient.
+- 
+
+-->
+
 
 
 
