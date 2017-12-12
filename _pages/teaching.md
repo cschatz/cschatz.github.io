@@ -23,18 +23,13 @@ in my view, an endeavor that is most similar to some combination of **learning a
 
 What are those habits? In my view and in my experience, the most important ones are:
 
-- Regularly get enough sleep. Seriously.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best debugger ever made is a good night&#39;s sleep.</p>&mdash; Sasha Laundy (@SashaLaundy) <a href="https://twitter.com/SashaLaundy/status/936661004137635840?ref_src=twsrc%5Etfw">December 1, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 - Practice early, practice often.
 
 - Build skills by *doing* not just *watching*.
 
+- Regularly get enough sleep. Seriously.
 
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The best debugger ever made is a good night&#39;s sleep.</p>&mdash; Sasha Laundy (@SashaLaundy) <a href="https://twitter.com/SashaLaundy/status/936661004137635840?ref_src=twsrc%5Etfw">December 1, 2017</a></blockquote>
 
 
 ## What Students Say
@@ -49,9 +44,10 @@ almost all from anonymous end-of-term evaluations.
 - _I just want you to know that you are a perfect teacher._
 - _Thank you for listening, answering, and being respectful. I don't think I can overstate how much I value feeling respected in a classroom._
 
-_ *But students say critical things, too, right?* _
-
 <!--
+
+_**But students say critical things, too, right?**_
+
 
 - I can sometimes get impatient.
 - 
