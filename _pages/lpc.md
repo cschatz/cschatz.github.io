@@ -9,8 +9,8 @@ classes I teach or the Honors program. If are looking for more general things I 
 about my teaching, you want the [Teaching](/teaching/) page.
 
 - [My schedule, including office hours](http://scinett.com/schatz/)
-- [How to Get Help](https://gist.github.com/cschatz/8b8dee661c8fe6a8f32df8327fccba2a)
-- [Email Guidelines](https://gist.github.com/cschatz/5d7b4119ba2a7c58df7b3c84698223d5)
-- [Frequently Asked Questions](https://gist.github.com/cschatz/1f79160aaf82883f6fbce2e9d1d32253)
+- [Frequently Asked Questions](https://gist.github.com/lpc-cschatz/d8544751ea809dcff4279643811a8a7f)
+- [How to Get Help](https://gist.github.com/lpc-cschatz/3e1cb409e34cb9e7cbed70ec841f0d87)
+- [Email Guidelines](https://gist.github.com/lpc-cschatz/08b4f817e34381ab2a378f2da5909f09)
 - [Honors Transfer Program website](http://www.laspositascollege.edu/honors/)
 
