@@ -82,4 +82,4 @@ is essential to the process of building your skills.
 
 ## Don't panic.
 
-This is easier said that done, but it is important because is a huge **psychological** dimension to coding. The entity you are communicating with -- the computer -- is one that 
+This is easier said that done, but it is important because there is a huge **psychological** dimension to coding. The entity you are communicating with, a computer, is one that can often behave in frustrating and conufusing ways. What I refer to as a panic reaction -- "OMG, what is going on?!? I have no idea why this is happening, I feel completely lost!" -- is an understandable experience when you are first starting out. In my class, you'll learn approaches to debugging that will help you realize there are effective steps you can take to resolve problems and that you **are** capable of making sense of "misbehaving" code, and cut down on feelings of panic. 
