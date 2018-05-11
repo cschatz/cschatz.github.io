@@ -15,23 +15,38 @@ relationships in a classroom:
 - The relationship between students and each other.
 - The relationship between students and the objects (e.g., computers) and activities they engage with during their learning process.
 
+# What Students Say
+
+I am proud of my success as a teacher and the ways I have improved and grown
+over time in my career. Here are some of my favorite statements from students,
+from anonymous evaluation surveys:
+
+- _You are the best CS professor I have ever had._
+- _The instructor for this course was probably the best I ever had, I will miss him._
+- _[The instructor's] teaching methods help me understand the material almost instantly._
+- _[The instructor] created a relaxed, 'chill' environment. Never a bad ambience._
+- _Thank you for listening, answering, and being respectful. I don't think I can overstate how much I value feeling respected in a classroom._
+
+_**But students say critical things, too, right?**_ Yes, they sometimes do. Different students like different kinds of teachers, my personality is a better match
+for some people than others, and there are areas I am still working on and developing as an instructor.
+More about that in a future update to this page.
+
 # How I Teach
 
-My students are people who are learning to code. Learning to code is,
-in my view, an endeavor that is most similar to some combination of **learning a foreign language** and
+My students are people who are learning to code. In my view, learning to code is is most similar to some combination of **learning a foreign language** and
 **learning to play an instrument**. It shares both cognitive and socio-emotional features of these other long-term processes, and programming students are most successful when they establish the kind of **habits** that also lead to success for musicians and human-language learners.
 
-What are those habits? In my view and in my experience, here are the most important ones:
+What are those habits? The most important ones -- which I structure my teaching, grading and assignments to emphasize -- are:
 
 ## Practice early, practice often.
 
-One big part of learning to code is not about what you think or understand in your mind, but is about 
-developing [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory) in your fingers. 
+Learning to code is not just about what you think or understand in your mind. A big part of it is 
+developing [muscle memory](https://en.wikipedia.org/wiki/Muscle_memory).
 
 ## Build skills by doing, not just by watching.
 
-Nobody could learn to play the piano just by watching someone else do it. You have to actually touch the instrument 
-with your own hands. Even if -- especially if! -- your fingers don't quite know what they are doing yet. 
+Nobody could learn to play the piano just by watching someone else do it. You have to touch the instrument 
+with your own hands, even if -- especially if! -- your fingers don't quite know what they are doing yet. 
 
 ## Get enough sleep.
 
@@ -39,24 +54,25 @@ with your own hands. Even if -- especially if! -- your fingers don't quite know 
 
 Get enough sleep. Seriously.
 
-If you aren't getting enough sleep because you are staying up late to finish a CS assignment, please understand
-that means that you are **doing it wrong**. You have bad, counterproductive work habits. You are putting yourself
-in the position of coding while being in the **worst possible** state for good coding. Don't do this!
+If you aren't getting enough sleep because you are staying up late to finish a CS assignment, you need to be aware that
+this is **doing it wrong**. Bluntly, what that means is that you started **too late**, and have counterproductive work habits that put you in the position of coding while being in the **worst possible** state for good coding. Don't do this!
 
-If you have this problem, there is a simple solution, but it requires some intention and some control over your own
-thoughts. But I guarantee it will make a huge (huge!) difference. Here it is: **Pretend your assignment is due
-TWO DAYS earlier than it actually is.** 
+Not sure how to avoid starting too late? There is one simple solution. It requires some intention and some control over your own thoughts, but I guarantee it will make a huge difference. Here it is: **Pretend your assignment is due
+TWO DAYS earlier than it actually is.** Put the "fake" deadline on your calendar, and plan your work time backwards
+from there. 
 
-## Write things down.
+One other thing that can help break a cycle of starting too late: When an assignment is posted, do the **first 15 minutes** of work on it **right away** (or as close to right away as you possible). On the day the assignment is posted, all you have to do is find 15 minutes. More than 15 minutes is even better, but 15 minutes on the first day is infinitely better than ignoring it altogether. Even if those 15 minutes are right before bed, you'll get some piece of the code written, and you'll begin to get a sense of what the rest of the work for that assignment looks like. That makes it much easier to continue the next day, and cuts down on the impulse to procrastinate, since you've already started.
 
-Typing and writing are different actions. Actually **write** things down! Also **draw** pictures and diagrams. If it helps, make clay models. Or build with Legos. Or do interpretive dance. Or act things out. The more different ways you can connect to the concepts and patterns you need to practice, the better!
+## Use pencil and paper.
+
+Typing and writing are different actions. Whatever you do, do not ONLY look at your screen and type. To **think** effectively about code, you need to literally **write** things and **draw** things  using a **physical** writing implement and paper. If it helps, make clay models. Or build with Legos. Or do interpretive dance. Or act things out. The more different ways you can connect to the concepts and patterns you need to practice, the better!
 
 ## Get comfortable making mistakes.
 
 As my youth orchestra director once said:<br />
 _"If you are going to play a wrong note, play it loud."_
 
-And you **will** play (metaphorical) wrong notes. Lots of them.
+And you **will** play metaphorical wrong notes. Frequently.
 
 **Debugging** code is as much a part of creating software as
 writing code in the first place. Get used to it. Make mistakes proudly, knowing that writing broken code
@@ -66,33 +82,4 @@ is essential to the process of building your skills.
 
 ## Don't panic.
 
-And don't forget your towel.
-
-# What Students Say
-
-I am proud of my success as a teacher and the ways I have improved and grown
-over time in my career. Here are some of my favorite statements from students,
-almost all from anonymous end-of-term evaluations.
-
-- _You are the best CS professor I have ever had._
-- _You are hands down the best teacher I have had at Las Positas College._
-- _The instructor for this course was probably the best I ever had, I will miss him._
-- _I just want you to know that you are a perfect teacher._
-- _Thank you for listening, answering, and being respectful. I don't think I can overstate how much I value feeling respected in a classroom._
-
-_**But students say critical things, too, right?**_ Yes, they sometimes do. Different students like different kinds of teachers, my personality is a better match
-for some people than others, and there are areas I am still working on and developing as an instructor.
-More about that in a future update to this page.
-
-
-<!--
-
-- I can sometimes get impatient.
-
--->
-
-
-
-
-
-
+This is easier said that done, but it is important because is a huge **psychological** dimension to coding. The entity you are communicating with -- the computer -- is one that 
